@@ -1,6 +1,9 @@
 #RYAN IS AWESOME!!!!!
+#RYAN IS AWESOME!!!!!
+#RYAN IS AWESOME!!!!!
+#RYAN IS AWESOME!!!!!
 source 'https://rubygems.org'
-
+#Chris is #{insult}
 gem 'rails', '3.2.14'
 
 # Bundle edge Rails instead:
