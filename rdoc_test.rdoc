@@ -1,5 +1,5 @@
 =Heading
 ==sub-heading
 ===ryan smells like feet
-*ryan shower
-*ryan use soap
+1 ryan shower
+2 ryan use soap
